@@ -4,7 +4,7 @@
 [![GitHub Discussions](https://img.shields.io/github/discussions/jetbrains/qodana)][jb:discussions]
 [![Twitter Follow](https://img.shields.io/twitter/follow/Qodana?style=social&logo=twitter)][jb:twitter]
 
-Code inspection profiles that are included in each Qodana Docker image. Published publicly for the reference.
+Code inspection profiles that are included in each Qodana Docker image. Published on GitHub for the reference.
 
 ## Project structure
 
