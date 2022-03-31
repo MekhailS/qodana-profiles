@@ -14,9 +14,8 @@ Each Qodana Docker image has own branch in this repository. ```.idea/inspectionP
 - Profile could be referenced in ```qodana:dev``` image as ```%profileName%```
 - Profiles in branches for public images should have prefix ```qodana.```
 
-[gh:qodana]: https://github.com/JetBrains/qodana-action/actions/workflows/code_scanning.yml
 [youtrack]: https://youtrack.jetbrains.com/issues/QD
-[youtrack-new-issue]: https://youtrack.jetbrains.com/newIssue?project=QD&c=Platform%20GitHub%20action
+[youtrack-new-issue]: https://youtrack.jetbrains.com/newIssue?project=QD
 [jb:confluence-on-gh]: https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub
 [jb:discussions]: https://jb.gg/qodana-discussions
 [jb:twitter]: https://twitter.com/Qodana
@@ -24,6 +23,6 @@ Each Qodana Docker image has own branch in this repository. ```.idea/inspectionP
 
 ## Issue Tracker
 
-All the issues, feature requests, and support related to the Qodana Azure Pipelines extension are handled on [YouTrack][youtrack].
+All the issues, feature requests, and support related to Qodana are handled on [YouTrack][youtrack].
 
 If you'd like to file a new issue, please use the link [YouTrack | New Issue][youtrack-new-issue].
